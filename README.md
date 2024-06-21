@@ -25,4 +25,5 @@ Discover the culinary world of Mealify - a restaurant web page template that sea
 
 
 
-##  for live demo please click on the link : https://abdulrahman-mashhout.github.io/Mealify/
+##  for live demo please click on the link :
+https://abdulrahman-mashhout.github.io/Mealify/
