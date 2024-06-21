@@ -22,3 +22,7 @@ Built with HTML5 and CSS, Mealify is a responsive web page template that adapts 
 - Developed using Flexbox and grid for flexible and intuitive layouts
 
 Discover the culinary world of Mealify - a restaurant web page template that seamlessly blends captivating visuals with functional features. From delightful animations to responsive design and dark mode, Mealify delivers an immersive dining experience.
+
+
+
+##  for live demo please click on the link : https://abdulrahman-mashhout.github.io/Mealify/
